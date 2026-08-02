@@ -11,11 +11,6 @@
 <img src="https://skillicons.dev/icons?i=java,cs,py,idea,git,github" alt="Skills"/>
 </div>
 <br>
-<div align="center">
-<img src="https://img.shields.io/badge/Minecraft-Development-62B47A?style=for-the-badge&logo=minecraft&logoColor=white">
-<img src="https://img.shields.io/badge/Blockbench-Modeling-1E93D1?style=for-the-badge">
-<img src="https://img.shields.io/badge/IntelliJ-IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white">
-</div>
 
 
 <div align="center">
